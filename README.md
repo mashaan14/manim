@@ -1,4 +1,6 @@
 # manim
 A collection of manim projects and their videos.
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+## [Duck Duck Go](https://duckduckgo.com)
+https://github.com/mashaan14/manim/assets/61033787/99bcdca2-9f54-4123-b037-74467f24c640
+
