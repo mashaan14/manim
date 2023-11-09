@@ -1,5 +1,5 @@
 # manim
-A collection of videos designed using [manim](https://3b1b.github.io/manim/) python library.
+A collection of videos designed using [Manim](https://3b1b.github.io/manim/) python library. Manim is used in [3Blue1Brown](https://www.3blue1brown.com/) videos.
 
 | Topic |&nbsp;|&nbsp;|
 | :--- | :---: | :---: |
